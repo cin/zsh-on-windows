@@ -57,11 +57,11 @@ ln -s /usr/bin/python3.6 /usr/bin/python3
 ```
 
 ## ensure tmux and conf files are in their right place!!! it's weird!
-[%homepath%\.hyper.js](https://gist.github.com/cin/6b87cff0569f7de846dec65745aee4cc)
+[%homepath%\.hyper.js](.hyper.js)
 please don't laugh at my .vimrc config, it's already bad enough that it's mostly/all from the Vundle example.
-[%localappdata%\lxss\root\.vimrc](https://gist.github.com/cin/87be78996903f07777c470e7fab8c930)
-my `.tmux.conf` file is mostly from [here](https://gist.github.com/tsl0922/d79fc1f8097dde660b34). had to disable the mouse and maybe some other things.
-[%localappdata%\lxss\root\.tmuf.conf](https://gist.github.com/cin/097238deb5541d5322bd3df8bf03e9e7)
+[%localappdata%\lxss\root\.vimrc](.vimrc)
+my `.tmux.conf` file is mostly from [here](.tmux.conf). had to disable the mouse and maybe some other things.
+[%localappdata%\lxss\root\.tmuf.conf](.tmux.conf)
 
 ## hyper config
 Be mindful of how `shell` and `shellArgs` are set. This will change depending on what version of windows you have. The install guide has more information on this.
